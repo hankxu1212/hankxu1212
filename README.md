@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hankxu1212
 - 👀 I’m interested in big data, algorithm design, and distributed systems
-- 🌱 I’m currently learning game design and GPU level code writing
+- 🌱 I’m currently learning game design and systems
 - 📫 How to reach me: uuuuuuxuninghua@gmail.com
 
 <!---
