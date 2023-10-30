@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hankxu1212
-- 👀 I’m interested in big data, algorithm design, and distributed systems
-- 🌱 I’m currently learning game design and systems
+- 👀 game developer, data/systems engineer at CMU
 - 📫 How to reach me: uuuuuuxuninghua@gmail.com
 
 <!---
