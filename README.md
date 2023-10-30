@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hankxu1212
-- 👀 game developer, data/systems engineer at CMU
+- 👋 Hi, I’m Hank Xu
+- 👀 I'm a passionate game developer, data/systems engineer at CMU
 - 📫 How to reach me: uuuuuuxuninghua@gmail.com
 
 <!---
