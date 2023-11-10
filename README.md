@@ -2,4 +2,4 @@
 - 👀 I'm a passionate game developer, data/systems engineer at CMU
 - 📫 How to reach me: uuuuuuxuninghua@gmail.com
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hankxu1212)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api?username=hankxu1212)](https://github.com/anuraghazra/github-readme-stats)
