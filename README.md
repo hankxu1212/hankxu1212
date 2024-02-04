@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hank Xu</h1>
 <h3 align="center">Passionate game (engine) developer, data/systems engineer</h3>
 
-- 🔭 I’m currently working on [Noire (3D top-down RPG in Unity)](https://github.com/hankxu1212/Noire)
+- 🔭 I’m currently working on Noire (3D top-down RPG in Unity)
 
 - 💬 Ask me about **Game development, game engines, big data**
 
