@@ -18,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hankxu1212&show_icons=true&theme=radical&locale=en" alt="hankxu1212" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hankxu1212&theme=dark" alt="hankxu1212" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hankxu1212)](https://github.com/anuraghazra/github-readme-stats)
