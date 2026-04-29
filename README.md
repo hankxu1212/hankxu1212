@@ -1,6 +1,6 @@
 Hey guys,
 
-I'm a developer at Team Crescendo. I mainly do Unity development as well as full stack.
+I'm a developer at Team Crescendo. I do rendering, Unity game development, as well as full stack and cloud infra.
 
 We open source some of our modules at https://github.com/Team-Crescendo-Games/
 
